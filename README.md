@@ -10,7 +10,7 @@ The application can be started in 3 ways:
 
 ### Using .jar file
 
-navigate to: `DynatraceTask/target/`
+navigate to: `DynatraceTask/`
 
 type given command in terminal: `java -jar dynatrace-backed-task.jar`
 or execute file by clicking on it
