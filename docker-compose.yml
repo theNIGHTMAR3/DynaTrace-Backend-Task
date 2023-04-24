@@ -1,0 +1,11 @@
+version: "3.9"  # optional since v1.27.0
+services:
+  dynatrace-task:
+    container_name: dynatrace-backed-task-container
+    build: 
+        context: ./dynatraceTask
+    ports:
+      - "8080:8080"
+
+
+  
