@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DynaTrace-Backend-Task.iml" filepath="$PROJECT_DIR$/.idea/DynaTrace-Backend-Task.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DynatraceTask/DynatraceTask.iml" filepath="$PROJECT_DIR$/DynatraceTask/DynatraceTask.iml" />
-    </modules>
-  </component>
-</project>
